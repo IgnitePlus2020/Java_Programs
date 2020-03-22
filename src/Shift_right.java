@@ -13,7 +13,7 @@ public class Shift_right {
         {
             a[i]=sc.nextInt();
         }
-        for(i=0;i<1;i++)
+        for(i=0;i<1;i++)// right shift by 1
         {
             int last = a[n-1];
             for(j=n-1;j>0;j--)
